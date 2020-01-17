@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Convertidor de moneda</string>
+    <string name="explicacion">Seleccione a la izquierda las monedas e ingrese la cantidad a la derecha</string>
+    <string name="amboscampos">Debe seleccionar ambas divisas</string>
+    <string name="posdata">Conversion a la tasa de cambio del 15/01/2019</string>
+</resources>
